@@ -27,11 +27,6 @@
 //interfacelerdeki variablelar "public, static ve final"dır. Yani constant declare ederiz, instance variable degil.
 
 
-
-
-
-
-
 public interface Interface {
 	
 	
