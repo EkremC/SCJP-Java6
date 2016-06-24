@@ -6,24 +6,24 @@ Aşağıda dosya yapısını ayrıntılı bir biçimde görebilir, bu sayede ist
 DECLARATIONS AND ACCESS CONTROL
 |
 |---->Declare Classes
-					 |--->Abstract Class
-					 |--->Interface Class
+		     |--->Abstract Clas
+		     |--->Interface Class
 
 |---->Declare Class Members
-						   |--->Access Modifiers
-						   						 |-->Public Members
-						   						 |-->Private Members
-						   						 |-->Protected and Default Members
+			   |--->Access Modifiers
+			   			|-->Public Members
+			   			|-->Private Members
+			   			|-->Protected and Default Members
 
-						   |--->Non-Access Modifiers
-						   							|-->Final Methods
-						   							|-->Abstract Methods
-						   							|-->Synchronized Methods
-						   							|-->Methods with Variable ArgumentLists(var-args)
+			   |--->Non-Access Modifiers
+						    |-->Final Methods
+						    |-->Abstract Methods
+						    |-->Synchronized Methods
+						    |-->Methods with Variable ArgumentLists(var-args)
 
-						   |--->Constructor Declarations
+			   |--->Constructor Declarations
 
-						   |--->Variable Declarations
-						   							 |-->Declaring Primitives
- 													 |-->Declaring Reference Variables
- 													 |-->Instance Variables
+			   |--->Variable Declarations
+						     |-->Declaring Primitives
+						     |-->Declaring Reference Variables
+						     |-->Instance Variables
