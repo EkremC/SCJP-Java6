@@ -1,8 +1,3 @@
-Sun Certified Programmer for Java 6 kitabının kodlarıyla birlikte özetlenmeye çalışılmış halidir.
-
-Aşağıda dosya yapısını ayrıntılı bir biçimde görebilir, bu sayede istediğiniz konuyu rahatlıkla bulabilirsiniz.
-
-
 DECLARATIONS AND ACCESS CONTROL
 |
 |---->Declare Classes
