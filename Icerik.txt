@@ -1,7 +1,7 @@
 DECLARATIONS AND ACCESS CONTROL
 |
 |---->Declare Classes
-		     |--->Abstract Clas
+		     |--->Abstract Class
 		     |--->Interface Class
 
 |---->Declare Class Members
