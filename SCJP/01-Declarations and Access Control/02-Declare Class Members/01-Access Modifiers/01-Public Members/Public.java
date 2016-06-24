@@ -15,7 +15,7 @@ public class Public {
 }
 
 
-/*
+-------------------------------------------------------------
 package book;
 import cert.*;
 class Goo{
@@ -31,9 +31,9 @@ public class Sludge{
 		System.out.println("sludge");
 	}
 }
-*/
+-------------------------------------------------------------
 
-/*
+-------------------------------------------------------------
 package cert;
 public class Roo{
 	public String doTooThings() {
@@ -48,13 +48,13 @@ class Cloo extends Roo{
 		System.out.println(doTooThings());
 	}
 }
-*/
+-------------------------------------------------------------
 
-/*
+-------------------------------------------------------------
 class Toon{
 	public static void main(String[] args) {
 		Cloo c = new Cloo();
 		System.out.println(c.doTooThings());  //No Problem, method is public.
 	}
 }
-*/
+-------------------------------------------------------------
