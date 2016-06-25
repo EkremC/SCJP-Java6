@@ -22,3 +22,4 @@ DECLARATIONS AND ACCESS CONTROL
 						     |-->Declaring Primitives
 						     |-->Declaring Reference Variables
 						     |-->Instance Variables
+						     |-->Local Variables
