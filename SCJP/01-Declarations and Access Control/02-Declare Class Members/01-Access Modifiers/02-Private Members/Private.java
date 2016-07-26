@@ -13,7 +13,7 @@ public class Private {
 
 }
 
-/*
+---------------------------------------------------------------------------
 package cert;
 public class Roo{
 	private String doTooThings() {
@@ -30,4 +30,4 @@ class UseARoo{
 		System.out.println(roo.doRooThings()); //Compiler error!
 	}
 }
-*/
+---------------------------------------------------------------------------
