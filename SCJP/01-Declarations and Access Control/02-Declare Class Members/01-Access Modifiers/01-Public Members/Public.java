@@ -1,4 +1,3 @@
-import javax.swing.text.AsyncBoxView.ChildLocator;
 
 //eger bir method yada variable member, public olarak declare edilmesi demek, diger tüm sınıflardan ve paketlerden 
 //bu method ya da variable memberlara erisebiliriz anlamına gelmektedir.(sinifin visible old. sayıyoruz.)
