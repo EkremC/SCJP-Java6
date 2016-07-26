@@ -10,7 +10,7 @@ public class ProtectedDetails {
 
 }
 
-/*
+---------------------------------------------------------------------------------------------
 package certification;
 public class Parent{
 	protected int x = 9; // protected access
@@ -23,9 +23,9 @@ class Child extends Parent{
 		System.out.println("x is " + x); //No problem, Child inherits x
 	}
 }
-*/
+---------------------------------------------------------------------------------------------
 
-/*
+---------------------------------------------------------------------------------------------
 package certification;
 public class Parent{
 	protected int x = 9; // protected access
@@ -42,4 +42,4 @@ class Child extends Parent{
 		System.out.println("X in parent is "+ parent.x); //compile error!!
 	}
 }
-*/
+---------------------------------------------------------------------------------------------
