@@ -2,10 +2,11 @@
 //eger bir method yada variable member, public olarak declare edilmesi demek, diger tüm sınıflardan ve paketlerden 
 //bu method ya da variable memberlara erisebiliriz anlamına gelmektedir.(sinifin visible old. sayıyoruz.)
 
-//İki sinif farklı paketlerde olsa bile eger bir sinif ve methodu public ise diger sinif bu methoda sorunsuz ulasabilir.(Sludge - Goo örnegi)
+//İki sinif farklı paketlerde olsa bile eger bir sinif ve methodu public ise diger sinif bu methoda 
+//sorunsuz ulasabilir.(Sludge - Goo örnegi)
 
-//Eger bir sinif diger bir sinifi kalitiyorsa ve superclass "public" olarak declare edildiyse, subclass, superclass'la aynı pakette olsa da olmasa da 
-//memberları kullanabilir.(Roo - Cloo örnegi)
+//Eger bir sinif diger bir sinifi kalitiyorsa ve superclass "public" olarak declare edildiyse, subclass, 
+//superclass'la aynı pakette olsa da olmasa da memberları kullanabilir.(Roo - Cloo örnegi)
 
 //Cloo classındaki doTooThings() methodu su sekilde de cagrilabilir: this.doTooThings()
 
